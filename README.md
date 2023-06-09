@@ -10,7 +10,7 @@
 
 ```yaml
 dependencies:
-  abc_pay: ^1.0.0
+  abc_pay: ^1.0.1
 ```
 
 ### 示例
